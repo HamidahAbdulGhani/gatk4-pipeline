@@ -35,6 +35,8 @@ In-depth usage examples.
 ### Sample Data
 Example are included along the scripts
 
+If you want to rename your BAM files with unique read tags, please refer to my example script: reheader_bam_example
+
 ## Documentation
 Please refer to HPC Workbook 1-3 from RCSI IT website if your not familiar with Slurm environment.
 Please refer to GATK4 Best Practice to understand what this pipeline did (https://gatk.broadinstitute.org/hc/en-us/categories/360002369672)
