@@ -26,19 +26,21 @@ It would be best if you were on RCSI Local Compute to use these scripts.
 Run the job according to the assigned script job numbers 01,02,03..12,
 The scripts were designed for large-scale WES/WGS trios analysis, to be run in parallel jobs whenever possible.
 As a first-time user, I would recommend you run a small sample size to test/make some edits according to your analysis/sample id name etc
+After job no 12, please refer to Omri's custom R script for post-filter the results accordingly.
+If you need to Snakemake file version of this pipeline, please ask Sahin.
 
 ### Detailed Instructions
 In-depth usage examples.
 
 ### Sample Data
-Links to sample datasets.
+Example are included along the scripts
 
 ## Documentation
 Please refer to HPC Workbook 1-3 from RCSI IT website if your not familiar with Slurm environment.
 Please refer to GATK4 Best Practice to understand what this pipeline did (https://gatk.broadinstitute.org/hc/en-us/categories/360002369672)
 
 ## Testing
-Instructions to run tests and links to test data.
+All included in the scripts
 
 ## Contributing
 Guidelines on how to contribute.
